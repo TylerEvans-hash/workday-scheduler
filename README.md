@@ -38,3 +38,4 @@ https://tylerevans-hash.github.io/workday-scheduler/
 - Moment.js
 
 ## Contributions:
+- Tyler Evans
